@@ -1,0 +1,16 @@
+/* it should not be styles.txt it should bs styles.css */
+body {
+    background: lightblue; /* No change here */
+    text-align: center; /* Fixed: should be 'text-align' instead of 'text align' */
+    font-family: Arial, sans-serif; /* Fixed: should be 'font-family' instead of 'font family' */
+}
+
+h1 {
+    font-size: 24px; /* Fixed: should be 'font-size' instead of 'font size' */
+    color: blue; /* No change here */
+}
+
+.message {
+    font-weight: bold; /* Correct: this is correct for making text bold */
+    color: red; /* No change here */
+}
